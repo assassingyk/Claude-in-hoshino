@@ -3,13 +3,12 @@
 
 
 主要移植自[LucentQQBot](https://github.com/BlackPinkiller/LucentQQBot)by @Lucent, edited by @空白 @Tasse @BlackPinkiller。感谢各位大佬。
-
 因为chatgpt的插件已经不少了就只把claude的部分摘出来了。
 
 
 之前写了一半基础功能能用了就放下了一直没写完，等到想起来写完的时候已经是claude多轮监管发癫降智之后的事了.jpg
 
-现在claude for slack虽然不如四五月那会那么好用（意味深）了，不过总归是比chatgpt多个选择.jpg
+现在claude for slack虽然不如四五月那会那么好用（意味深）了，不过总归是在gpt和bing之外多个选择.jpg
 
 ## 功能
 
